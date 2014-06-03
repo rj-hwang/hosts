@@ -1,6 +1,11 @@
-## IP
+## IP4
 # 74.125.227.2
 # 203.208.46.146
+
+## IP6 http://www.ipv6forum.com/test_ipv6.php
+#  https://docs.google.com/View?id=dfkdmxnt_61d9ck9ffq
+#  https://ipv6-hosts.googlecode.com/hg/hosts
+#  http://code.google.com/p/ipv6-hosts/
 
 # smarthosts 
 # https://code.google.com/p/smarthosts/
@@ -19,6 +24,7 @@
 74.125.227.2 apis.google.com
 74.125.227.2 fonts.googleapis.com
 74.125.227.2 www.googleapis.com
+74.125.227.2 ipv6-hosts.googlecode.com
 
 # google
 74.125.227.2 google.cn
