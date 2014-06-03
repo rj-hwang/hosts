@@ -1,0 +1,47 @@
+## IP
+# 74.125.227.2
+# 203.208.46.146
+
+# smarthosts https://code.google.com/p/smarthosts/
+74.125.227.2 smarthosts.googlecode.com
+
+
+# google
+74.125.227.2 google.cn
+74.125.227.2 www.google.cn
+74.125.227.2 www.google.com
+74.125.227.2 www.google.com.hk
+74.125.227.2 www.gstatic.com
+74.125.227.2 csi.gstatic.com
+74.125.227.2 ssl.gstatic.com
+74.125.227.2 apis.google.com
+74.125.227.2 lh.googleusercontent.com
+74.125.227.2 lh1.googleusercontent.com
+74.125.227.2 lh2.googleusercontent.com
+74.125.227.2 lh3.googleusercontent.com
+74.125.227.2 lh4.googleusercontent.com
+74.125.227.2 lh5.googleusercontent.com
+74.125.227.2 lh6.googleusercontent.com
+74.125.227.2 clients.google.com
+74.125.227.2 clients1.google.com
+74.125.227.2 clients2.google.com
+74.125.227.2 clients3.google.com
+74.125.227.2 clients4.google.com
+74.125.227.2 clients5.google.com
+74.125.227.2 clients6.google.com
+
+# gmail
+#74.125.25.17 mail.google.com
+74.125.227.2 mail.google.com
+74.125.227.2 mail-attachment.googleusercontent.com
+74.125.227.2 chatenabled.mail.google.com
+
+# g+
+74.125.227.2 plus.google.com
+74.125.227.2 talkgadget.google.com
+
+# Section Start: huhamhire-hosts
+192.184.89.121 hosts.huhamhire.com
+74.125.132.82    huhamhire-hosts.googlecode.com
+74.125.227.2 huhamhire.github.com
+# Section End: huhamhire-hostsire.com
