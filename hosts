@@ -2,19 +2,29 @@
 # 74.125.227.2
 # 203.208.46.146
 
-# smarthosts https://code.google.com/p/smarthosts/
+# smarthosts 
+# https://code.google.com/p/smarthosts/
+# https://github.com/smarthosts/smarthosts
+# https://smarthosts.googlecode.com/svn/trunk/hosts
+# https://github.com/smarthosts/smarthosts/blob/master/trunk/hosts
 74.125.227.2 smarthosts.googlecode.com
 
+
+# google auth
+74.125.227.2 accounts.google.com
+74.125.227.2 oauth.googleusercontent.com
+
+# google code & api
+74.125.227.2 code.google.com
+74.125.227.2 apis.google.com
+74.125.227.2 fonts.googleapis.com
+74.125.227.2 www.googleapis.com
 
 # google
 74.125.227.2 google.cn
 74.125.227.2 www.google.cn
 74.125.227.2 www.google.com
 74.125.227.2 www.google.com.hk
-74.125.227.2 www.gstatic.com
-74.125.227.2 csi.gstatic.com
-74.125.227.2 ssl.gstatic.com
-74.125.227.2 apis.google.com
 74.125.227.2 lh.googleusercontent.com
 74.125.227.2 lh1.googleusercontent.com
 74.125.227.2 lh2.googleusercontent.com
@@ -29,6 +39,37 @@
 74.125.227.2 clients4.google.com
 74.125.227.2 clients5.google.com
 74.125.227.2 clients6.google.com
+74.125.227.2 ssl.google-analytics.com
+74.125.227.2 www.gstatic.com
+74.125.227.2 csi.gstatic.com
+74.125.227.2 ssl.gstatic.com
+74.125.227.2 gg.google.com
+
+# google drive
+74.125.227.2 drive.google.com
+74.125.227.2 0.drive.google.com
+74.125.227.2 1.drive.google.com
+74.125.227.2 2.drive.google.com
+74.125.227.2 3.drive.google.com
+74.125.227.2 4.drive.google.com
+74.125.227.2 5.drive.google.com
+74.125.227.2 6.drive.google.com
+74.125.227.2 7.drive.google.com
+74.125.227.2 8.drive.google.com
+74.125.227.2 9.drive.google.com
+74.125.227.2 10.drive.google.com
+74.125.227.2 docs.google.com
+74.125.227.2 0.docs.google.com
+74.125.227.2 1.docs.google.com
+74.125.227.2 2.docs.google.com
+74.125.227.2 3.docs.google.com
+74.125.227.2 4.docs.google.com
+74.125.227.2 5.docs.google.com
+74.125.227.2 6.docs.google.com
+74.125.227.2 7.docs.google.com
+74.125.227.2 8.docs.google.com
+74.125.227.2 9.docs.google.com
+74.125.227.2 10.docs.google.com
 
 # gmail
 #74.125.25.17 mail.google.com
@@ -39,6 +80,23 @@
 # g+
 74.125.227.2 plus.google.com
 74.125.227.2 talkgadget.google.com
+
+# youtube
+203.208.46.206  www.youtube.com
+203.208.46.206	accounts.youtube.com
+203.208.46.206	apiblog.youtube.com
+203.208.46.206	help.youtube.com
+203.208.46.206	i.ytimg.com
+203.208.46.206	i1.ytimg.com
+203.208.46.206	i2.ytimg.com
+203.208.46.206	i3.ytimg.com
+203.208.46.206	i4.ytimg.com
+203.208.46.206	insight.youtube.com
+203.208.46.206	m.youtube.com
+203.208.46.206	s.ytimg.com
+203.208.46.206	www.youtube.com
+203.208.46.206	ytimg.l.google.com
+
 
 # Section Start: huhamhire-hosts
 192.184.89.121 hosts.huhamhire.com
