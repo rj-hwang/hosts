@@ -1,5 +1,9 @@
 ## Google Hosts IP
 
+### 2014-08-06 
+1. 74.125.205.95
+2. 74.125.205.147
+
 ### 2014-06-20 
 1. 74.125.20.31 from http://forum.projecth.us/t/hosts/645/11
 2. 173.194.72.104 from http://forum.projecth.us/t/topic/1105
