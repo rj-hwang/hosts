@@ -32,6 +32,13 @@
 74.125.20.31 lh4.googleusercontent.com
 74.125.20.31 lh5.googleusercontent.com
 74.125.20.31 lh6.googleusercontent.com
+74.125.20.31 lh.google.com
+74.125.20.31 lh1.google.com
+74.125.20.31 lh2.google.com
+74.125.20.31 lh3.google.com
+74.125.20.31 lh4.google.com
+74.125.20.31 lh5.google.com
+74.125.20.31 lh6.google.com
 74.125.20.31 clients.google.com
 74.125.20.31 clients1.google.com
 74.125.20.31 clients2.google.com
@@ -46,6 +53,16 @@
 74.125.20.31 ssl.gstatic.com
 74.125.20.31 gg.google.com
 74.125.20.31 themes.googleusercontent.com
+74.125.20.31 www.googleadservices.com
+74.125.20.31 www.googletagmanager.com
+74.125.20.31 content.googleapis.com
+74.125.20.31 0.client-channel.google.com
+74.125.20.31 1.client-channel.google.com
+74.125.20.31 2.client-channel.google.com
+74.125.20.31 3.client-channel.google.com
+74.125.20.31 4.client-channel.google.com
+74.125.20.31 5.client-channel.google.com
+74.125.20.31 6.client-channel.google.com
 
 # google drive
 74.125.20.31 drive.google.com
