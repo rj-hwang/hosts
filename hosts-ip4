@@ -101,6 +101,9 @@
 74.125.20.31 plus.google.com
 74.125.20.31 talkgadget.google.com
 
+# google webstore
+74.125.205.95 chrome.google.com
+
 # youtube
 74.125.20.31 www.youtube.com
 74.125.20.31 accounts.youtube.com
