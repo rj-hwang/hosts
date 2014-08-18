@@ -106,21 +106,13 @@
 # google webstore
 74.125.20.31 chrome.google.com
 
-# youtube
-74.125.20.31 www.youtube.com
-74.125.20.31 accounts.youtube.com
-74.125.20.31 apiblog.youtube.com
-74.125.20.31 help.youtube.com
-74.125.20.31 i.ytimg.com
-74.125.20.31 i1.ytimg.com
-74.125.20.31 i2.ytimg.com
-74.125.20.31 i3.ytimg.com
-74.125.20.31 i4.ytimg.com
-74.125.20.31 insight.youtube.com
-74.125.20.31 m.youtube.com
-74.125.20.31 s.ytimg.com
-74.125.20.31 www.youtube.com
-74.125.20.31 ytimg.l.google.com
+# youtube chrome://net-internals
+202.65.246.87 www.youtube.com
+202.65.246.87 s.ytimg.com
+202.65.246.87 i.ytimg.com
+202.65.246.87 ad.doubleclick.net
+202.65.246.87 gg.google.com
+202.65.246.87 yt3.ggpht.com
 
 
 # Section Start: huhamhire-hosts
