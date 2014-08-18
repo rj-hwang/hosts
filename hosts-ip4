@@ -109,6 +109,7 @@
 # youtube chrome://net-internals
 202.65.246.87 www.youtube.com
 202.65.246.87 accounts.youtube.com
+202.65.246.87 s.youtube.com
 202.65.246.87 s.ytimg.com
 202.65.246.87 i.ytimg.com
 202.65.246.87 ad.doubleclick.net
