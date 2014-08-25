@@ -106,6 +106,10 @@
 # google webstore
 74.125.20.31 chrome.google.com
 
+# android
+74.125.20.31 android.clients.google.com
+74.125.20.31 play.googleapis.com
+
 # youtube chrome://net-internals
 202.65.246.87 www.youtube.com
 202.65.246.87 accounts.youtube.com
