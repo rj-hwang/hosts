@@ -68,9 +68,28 @@
 
 # google calendar
 74.125.20.31 calendar.google.com
+74.125.20.31 www-calendar-opensocial.googleusercontent.com
+74.125.20.31 ode25pfjgmvpquh3b1oqo31ti5ibg5fr-a-calendar-opensocial.googleusercontent.com
 
 # google maps
+# 74.125.20.31 ditu.google.cn
+# 74.125.20.31 mt.google.cn
+# 74.125.20.31 mt0.google.cn
+# 74.125.20.31 mt1.google.cn
+# 74.125.20.31 mt2.google.cn
+# 74.125.20.31 mt3.google.cn
+# 74.125.20.31 mt4.google.cn
+# 74.125.20.31 mt5.google.cn
+# 74.125.20.31 mt6.google.cn
 74.125.20.31 maps.gstatic.com
+74.125.20.31 mts.google.com
+74.125.20.31 mts0.google.com
+74.125.20.31 mts1.google.com
+74.125.20.31 mts2.google.com
+74.125.20.31 mts3.google.com
+74.125.20.31 mts4.google.com
+74.125.20.31 mts5.google.com
+74.125.20.31 mts6.google.com
 
 # google drive
 74.125.20.31 drive.google.com
