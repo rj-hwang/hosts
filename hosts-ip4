@@ -66,6 +66,12 @@
 74.125.20.31 5.client-channel.google.com
 74.125.20.31 6.client-channel.google.com
 
+# google calendar
+74.125.20.31 calendar.google.com
+
+# google maps
+74.125.20.31 maps.gstatic.com
+
 # google drive
 74.125.20.31 drive.google.com
 74.125.20.31 0.drive.google.com
