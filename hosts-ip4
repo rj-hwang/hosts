@@ -144,6 +144,9 @@
 # android
 74.125.20.31 android.clients.google.com
 74.125.20.31 play.googleapis.com
+74.125.205.95 developer.android.com
+74.125.205.95 source.android.com
+74.125.205.95 dl-ssl.google.com
 
 # youtube chrome://net-internals
 202.65.246.87 www.youtube.com
