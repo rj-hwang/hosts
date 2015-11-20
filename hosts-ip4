@@ -1,166 +1,228 @@
-## IP4 ##
+## DNS ##
+#2015-04-21 避免电信联通DNS广告劫持, 使用免费稳定的DNS: http://www.zreading.cn/ican/2015/04/dns/
+#1) Google DNS. 时常会被当地电信劫持，而将错误页也显示为了各种广告
+#8.8.8.8
+#8.8.4.4
+#2) OpenDNS
+#208.67.222.222
+#208.67.220.220
+#3) Norton DNS. Norton还提供一个DNS状态页，方便查看DNS工作状态
+#198.153.192.1
+#198.153.194.1
+#4) 114DNS
+#114.114.114.114
+#114.114.115.115
+#5) 百度公共DNS服务
+#180.76.76.76
+#6) 阿里DNS
+#223.5.5.5
+#223.6.6.6
 
-# smarthosts 
+
+## IP4 ##
+#2015-11-18 64.233.162. 84|83
+#2014-12-30 173.194.67. 108
+
+## huhamhire-hosts ##
+# https://github.com/huhamhire/huhamhire-hosts
+192.184.89.121 hosts.huhamhire.com
+
+## smarthosts ##
+# 2015-06-24 SmartHosts项目中止，新项目 SmartHostsX 移步 https://github.com/abngsa/SmartHostsX
 # https://code.google.com/p/smarthosts/
 # https://github.com/smarthosts/smarthosts
 # https://smarthosts.googlecode.com/svn/trunk/hosts
 # https://github.com/smarthosts/smarthosts/blob/master/trunk/hosts
-74.125.20.31 smarthosts.googlecode.com
+64.233.162.84 smarthosts.googlecode.com
 
 
 # google auth
-74.125.20.31 accounts.google.com
-74.125.20.31 oauth.googleusercontent.com
+64.233.162.84 accounts.google.com
+64.233.162.84 oauth.googleusercontent.com
 
 # google code & api
-74.125.20.31 code.google.com
-74.125.20.31 apis.google.com
-74.125.20.31 fonts.googleapis.com
-74.125.20.31 content.googleapis.com
-74.125.20.31 fonts.gstatic.com
-74.125.20.31 ajax.googleapis.com
-74.125.20.31 www.googleapis.com
-74.125.20.31 ipv6-hosts.googlecode.com
-74.125.20.31 google-styleguide.googlecode.com
+64.233.162.84 code.google.com
+64.233.162.84 apis.google.com
+64.233.162.84 fonts.googleapis.com
+64.233.162.84 content.googleapis.com
+64.233.162.84 fonts.gstatic.com
+64.233.162.84 ajax.googleapis.com
+64.233.162.84 www.googleapis.com
+64.233.162.84 ipv6-hosts.googlecode.com
+64.233.162.84 google-styleguide.googlecode.com
 
 # google
-74.125.20.31 google.cn
-74.125.20.31 www.google.cn
-74.125.20.31 www.google.com
-74.125.20.31 www.google.com.hk
-74.125.20.31 lh.googleusercontent.com
-74.125.20.31 lh1.googleusercontent.com
-74.125.20.31 lh2.googleusercontent.com
-74.125.20.31 lh3.googleusercontent.com
-74.125.20.31 lh4.googleusercontent.com
-74.125.20.31 lh5.googleusercontent.com
-74.125.20.31 lh6.googleusercontent.com
-74.125.20.31 lh.google.com
-74.125.20.31 lh1.google.com
-74.125.20.31 lh2.google.com
-74.125.20.31 lh3.google.com
-74.125.20.31 lh4.google.com
-74.125.20.31 lh5.google.com
-74.125.20.31 lh6.google.com
-74.125.20.31 clients.google.com
-74.125.20.31 clients1.google.com
-74.125.20.31 clients2.google.com
-74.125.20.31 clients3.google.com
-74.125.20.31 clients4.google.com
-74.125.20.31 clients5.google.com
-74.125.20.31 clients6.google.com
-74.125.20.31 ssl.google-analytics.com
-74.125.20.31 www.google-analytics.com
-74.125.20.31 www.gstatic.com
-74.125.20.31 csi.gstatic.com
-74.125.20.31 ssl.gstatic.com
-74.125.20.31 gg.google.com
-74.125.20.31 themes.googleusercontent.com
-74.125.20.31 www.googleadservices.com
-74.125.20.31 www.googletagmanager.com
-74.125.20.31 content.googleapis.com
-74.125.20.31 0.client-channel.google.com
-74.125.20.31 1.client-channel.google.com
-74.125.20.31 2.client-channel.google.com
-74.125.20.31 3.client-channel.google.com
-74.125.20.31 4.client-channel.google.com
-74.125.20.31 5.client-channel.google.com
-74.125.20.31 6.client-channel.google.com
+64.233.162.84 google.cn
+64.233.162.84 google.com
+64.233.162.84 www.google.cn
+64.233.162.84 www.google.com
+64.233.162.84 www.google.com.hk
+64.233.162.84 id.google.com
+64.233.162.84 id.google.com.hk
+64.233.162.84 id.google.cn
+64.233.162.84 lh.googleusercontent.com
+64.233.162.84 lh1.googleusercontent.com
+64.233.162.84 lh2.googleusercontent.com
+64.233.162.84 lh3.googleusercontent.com
+64.233.162.84 lh4.googleusercontent.com
+64.233.162.84 lh5.googleusercontent.com
+64.233.162.84 lh6.googleusercontent.com
+64.233.162.84 lh.google.com
+64.233.162.84 lh1.google.com
+64.233.162.84 lh2.google.com
+64.233.162.84 lh3.google.com
+64.233.162.84 lh4.google.com
+64.233.162.84 lh5.google.com
+64.233.162.84 lh6.google.com
+64.233.162.84 clients.google.com
+64.233.162.84 clients1.google.com
+64.233.162.84 clients2.google.com
+64.233.162.84 clients3.google.com
+64.233.162.84 clients4.google.com
+64.233.162.84 clients5.google.com
+64.233.162.84 clients6.google.com
+64.233.162.84 ssl.google-analytics.com
+64.233.162.84 www.google-analytics.com
+64.233.162.84 www.gstatic.com
+64.233.162.84 csi.gstatic.com
+64.233.162.84 ssl.gstatic.com
+64.233.162.84 cse.google.com 
+64.233.162.84 gg.google.com
+64.233.162.84 themes.googleusercontent.com
+64.233.162.84 www.googleadservices.com
+64.233.162.84 www.googletagmanager.com
+64.233.162.84 content.googleapis.com
+64.233.162.84 0.client-channel.google.com
+64.233.162.84 1.client-channel.google.com
+64.233.162.84 2.client-channel.google.com
+64.233.162.84 3.client-channel.google.com
+64.233.162.84 4.client-channel.google.com
+64.233.162.84 5.client-channel.google.com
+64.233.162.84 6.client-channel.google.com
+64.233.162.84 hangouts.google.com
+64.233.162.84 dl-ssl.google.com
+64.233.162.84 support.google.com
+64.233.162.84 helpouts.google.com
 
 # google calendar
-74.125.20.31 calendar.google.com
-74.125.20.31 www-calendar-opensocial.googleusercontent.com
-74.125.20.31 ode25pfjgmvpquh3b1oqo31ti5ibg5fr-a-calendar-opensocial.googleusercontent.com
+64.233.162.84 calendar.google.com
+64.233.162.84 www-calendar-opensocial.googleusercontent.com
+64.233.162.84 ode25pfjgmvpquh3b1oqo31ti5ibg5fr-a-calendar-opensocial.googleusercontent.com
 
 # google maps
-# 74.125.20.31 ditu.google.cn
-# 74.125.20.31 mt.google.cn
-# 74.125.20.31 mt0.google.cn
-# 74.125.20.31 mt1.google.cn
-# 74.125.20.31 mt2.google.cn
-# 74.125.20.31 mt3.google.cn
-# 74.125.20.31 mt4.google.cn
-# 74.125.20.31 mt5.google.cn
-# 74.125.20.31 mt6.google.cn
-74.125.20.31 maps.gstatic.com
-74.125.20.31 mts.google.com
-74.125.20.31 mts0.google.com
-74.125.20.31 mts1.google.com
-74.125.20.31 mts2.google.com
-74.125.20.31 mts3.google.com
-74.125.20.31 mts4.google.com
-74.125.20.31 mts5.google.com
-74.125.20.31 mts6.google.com
-74.125.20.31 khms.google.com
-74.125.20.31 khms0.google.com
-74.125.20.31 khms1.google.com
-74.125.20.31 khms2.google.com
-74.125.20.31 khms3.google.com
-74.125.20.31 khms4.google.com
-74.125.20.31 khms5.google.com
-74.125.20.31 khms6.google.com
+# 64.233.162.84 ditu.google.cn
+# 64.233.162.84 mt.google.cn
+# 64.233.162.84 mt0.google.cn
+# 64.233.162.84 mt1.google.cn
+# 64.233.162.84 mt2.google.cn
+# 64.233.162.84 mt3.google.cn
+# 64.233.162.84 mt4.google.cn
+# 64.233.162.84 mt5.google.cn
+# 64.233.162.84 mt6.google.cn
+64.233.162.84 maps.gstatic.com
+64.233.162.84 mts.google.com
+64.233.162.84 mts0.google.com
+64.233.162.84 mts1.google.com
+64.233.162.84 mts2.google.com
+64.233.162.84 mts3.google.com
+64.233.162.84 mts4.google.com
+64.233.162.84 mts5.google.com
+64.233.162.84 mts6.google.com
+64.233.162.84 khms.google.com
+64.233.162.84 khms0.google.com
+64.233.162.84 khms1.google.com
+64.233.162.84 khms2.google.com
+64.233.162.84 khms3.google.com
+64.233.162.84 khms4.google.com
+64.233.162.84 khms5.google.com
+64.233.162.84 khms6.google.com
 
 # google drive
-74.125.20.31 drive.google.com
-74.125.20.31 0.drive.google.com
-74.125.20.31 1.drive.google.com
-74.125.20.31 2.drive.google.com
-74.125.20.31 3.drive.google.com
-74.125.20.31 4.drive.google.com
-74.125.20.31 5.drive.google.com
-74.125.20.31 6.drive.google.com
-74.125.20.31 7.drive.google.com
-74.125.20.31 8.drive.google.com
-74.125.20.31 9.drive.google.com
-74.125.20.31 10.drive.google.com
-74.125.20.31 docs.google.com
-74.125.20.31 0.docs.google.com
-74.125.20.31 1.docs.google.com
-74.125.20.31 2.docs.google.com
-74.125.20.31 3.docs.google.com
-74.125.20.31 4.docs.google.com
-74.125.20.31 5.docs.google.com
-74.125.20.31 6.docs.google.com
-74.125.20.31 7.docs.google.com
-74.125.20.31 8.docs.google.com
-74.125.20.31 9.docs.google.com
-74.125.20.31 10.docs.google.com
-74.125.20.31 upload.docs.google.com
+64.233.162.84 drive.google.com
+64.233.162.84 0.drive.google.com
+64.233.162.84 1.drive.google.com
+64.233.162.84 2.drive.google.com
+64.233.162.84 3.drive.google.com
+64.233.162.84 4.drive.google.com
+64.233.162.84 5.drive.google.com
+64.233.162.84 6.drive.google.com
+64.233.162.84 7.drive.google.com
+64.233.162.84 8.drive.google.com
+64.233.162.84 9.drive.google.com
+64.233.162.84 10.drive.google.com
+64.233.162.84 docs.google.com
+64.233.162.84 0.docs.google.com
+64.233.162.84 1.docs.google.com
+64.233.162.84 2.docs.google.com
+64.233.162.84 3.docs.google.com
+64.233.162.84 4.docs.google.com
+64.233.162.84 5.docs.google.com
+64.233.162.84 6.docs.google.com
+64.233.162.84 7.docs.google.com
+64.233.162.84 8.docs.google.com
+64.233.162.84 9.docs.google.com
+64.233.162.84 10.docs.google.com
+64.233.162.84 upload.docs.google.com
 
 # gmail
-74.125.20.31 gmail.com
-74.125.20.31 mail.google.com
-74.125.20.31 mail-attachment.googleusercontent.com
-74.125.20.31 chatenabled.mail.google.com
+64.233.162.84 gmail.com
+64.233.162.84 mail.google.com
+64.233.162.84 mail-attachment.googleusercontent.com
+64.233.162.84 chatenabled.mail.google.com
 
 # g+
-74.125.20.31 plus.google.com
-74.125.20.31 plus.url.google.com
-74.125.20.31 talkgadget.google.com
+64.233.162.84 plus.google.com
+64.233.162.84 plus.url.google.com
+64.233.162.84 talkgadget.google.com
 
 # google webstore
-74.125.20.31 chrome.google.com
+64.233.162.84 chrome.google.com
 
 # android
-74.125.20.31 android.clients.google.com
-74.125.20.31 play.googleapis.com
-74.125.205.95 developer.android.com
-74.125.205.95 source.android.com
-74.125.205.95 dl-ssl.google.com
+64.233.162.84 www.android.com
+64.233.162.84 developer.android.com
+64.233.162.84 source.android.com
+64.233.162.84 android.clients.google.com
+
+# google play
+64.233.162.84 play.google.com
+64.233.162.84 play.googleapis.com
+64.233.162.84 lh1.ggpht.com
+64.233.162.84 lh2.ggpht.com
+64.233.162.84 lh3.ggpht.com
+64.233.162.84 lh4.ggpht.com
+64.233.162.84 lh5.ggpht.com
+64.233.162.84 lh6.ggpht.com
+64.233.162.84 wallet.google.com
 
 # youtube chrome://net-internals
-202.65.246.87 www.youtube.com
-202.65.246.87 accounts.youtube.com
-202.65.246.87 s.youtube.com
-202.65.246.87 s.ytimg.com
-202.65.246.87 i.ytimg.com
-202.65.246.87 ad.doubleclick.net
-202.65.246.87 gg.google.com
-202.65.246.87 yt3.ggpht.com
+64.233.162.84 www.youtube.com
+64.233.162.84 accounts.youtube.com
+64.233.162.84 s.youtube.com
+64.233.162.84 s.ytimg.com
+64.233.162.84 i.ytimg.com
+64.233.162.84 i1.ytimg.com
+64.233.162.84 i2.ytimg.com
+64.233.162.84 i3.ytimg.com
+64.233.162.84 i4.ytimg.com
+64.233.162.84 i5.ytimg.com
+64.233.162.84 i6.ytimg.com
+64.233.162.84 ad.doubleclick.net
+64.233.162.84 gg.google.com
+64.233.162.84 yt3.ggpht.com
 
-
-# Section Start: huhamhire-hosts
-74.125.20.31 huhamhire-hosts.googlecode.com
-74.125.20.31 huhamhire.github.com
-192.184.89.121 hosts.huhamhire.com
-# Section End: huhamhire-hostsire.com
+# blogspot | blogger
+64.233.162.84 blogspot.com
+64.233.162.84 www.blogspot.com
+64.233.162.84 1.bp.blogspot.com
+64.233.162.84 2.bp.blogspot.com
+64.233.162.84 3.bp.blogspot.com
+64.233.162.84 4.bp.blogspot.com
+64.233.162.84 5.bp.blogspot.com
+64.233.162.84 6.bp.blogspot.com
+64.233.162.84 images-blogger-opensocial.googleusercontent.com
+64.233.162.84 www.blogger.com
+64.233.162.84 accounts.blogger.com
+64.233.162.84 blogger.l.google.com
+64.233.162.84 blogger.googleusercontent.com
+64.233.162.84 blogger.google.com
