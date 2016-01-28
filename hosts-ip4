@@ -20,6 +20,7 @@
 
 
 ## IP4 ##
+#2016-01-28 64.233.162. 83
 #2015-12-23 216.239.38. 125
 #2015-11-18 64.233.162. 84|83
 #2014-12-30 173.194.67. 108
@@ -34,258 +35,258 @@
 # https://github.com/smarthosts/smarthosts
 # https://smarthosts.googlecode.com/svn/trunk/hosts
 # https://github.com/smarthosts/smarthosts/blob/master/trunk/hosts
-216.239.38.125 smarthosts.googlecode.com
+64.233.162.83 smarthosts.googlecode.com
 
 
 # google auth
-216.239.38.125 accounts.google.com
-216.239.38.125 accounts.google.com.hk
-216.239.38.125 oauth.googleusercontent.com
-216.239.38.125 security.google.com
-216.239.38.125 security.google.com.hk
+64.233.162.83 accounts.google.com
+64.233.162.83 accounts.google.com.hk
+64.233.162.83 oauth.googleusercontent.com
+64.233.162.83 security.google.com
+64.233.162.83 security.google.com.hk
 
 # google code & api
-216.239.38.125 goo.gl
-216.239.38.125 code.google.com
-216.239.38.125 apis.google.com
-216.239.38.125 fonts.googleapis.com
-216.239.38.125 content.googleapis.com
-216.239.38.125 fonts.gstatic.com
-216.239.38.125 ajax.googleapis.com
-216.239.38.125 www.googleapis.com
-216.239.38.125 ipv6-hosts.googlecode.com
-216.239.38.125 google-styleguide.googlecode.com
+64.233.162.83 goo.gl
+64.233.162.83 code.google.com
+64.233.162.83 apis.google.com
+64.233.162.83 fonts.googleapis.com
+64.233.162.83 content.googleapis.com
+64.233.162.83 fonts.gstatic.com
+64.233.162.83 ajax.googleapis.com
+64.233.162.83 www.googleapis.com
+64.233.162.83 ipv6-hosts.googlecode.com
+64.233.162.83 google-styleguide.googlecode.com
 
 # google
-216.239.38.125 google.cn
-216.239.38.125 google.com
-216.239.38.125 www.google.cn
-216.239.38.125 www.google.com
-216.239.38.125 www.google.com.hk
-216.239.38.125 id.google.com
-216.239.38.125 id.google.com.hk
-216.239.38.125 id.google.cn
-216.239.38.125 lh.googleusercontent.com
-216.239.38.125 lh1.googleusercontent.com
-216.239.38.125 lh2.googleusercontent.com
-216.239.38.125 lh3.googleusercontent.com
-216.239.38.125 lh4.googleusercontent.com
-216.239.38.125 lh5.googleusercontent.com
-216.239.38.125 lh6.googleusercontent.com
-216.239.38.125 lh.google.com
-216.239.38.125 lh1.google.com
-216.239.38.125 lh2.google.com
-216.239.38.125 lh3.google.com
-216.239.38.125 lh4.google.com
-216.239.38.125 lh5.google.com
-216.239.38.125 lh6.google.com
-216.239.38.125 clients.google.com
-216.239.38.125 clients1.google.com
-216.239.38.125 clients2.google.com
-216.239.38.125 clients3.google.com
-216.239.38.125 clients4.google.com
-216.239.38.125 clients5.google.com
-216.239.38.125 clients6.google.com
-216.239.38.125 ssl.google-analytics.com
-216.239.38.125 www.google-analytics.com
-216.239.38.125 www.gstatic.com
-216.239.38.125 csi.gstatic.com
-216.239.38.125 ssl.gstatic.com
-216.239.38.125 cse.google.com 
-216.239.38.125 gg.google.com
-216.239.38.125 themes.googleusercontent.com
-216.239.38.125 www.googleadservices.com
-216.239.38.125 www.googletagmanager.com
-216.239.38.125 content.googleapis.com
-216.239.38.125 0.client-channel.google.com
-216.239.38.125 1.client-channel.google.com
-216.239.38.125 2.client-channel.google.com
-216.239.38.125 3.client-channel.google.com
-216.239.38.125 4.client-channel.google.com
-216.239.38.125 5.client-channel.google.com
-216.239.38.125 6.client-channel.google.com
-216.239.38.125 hangouts.google.com
-216.239.38.125 dl-ssl.google.com
-216.239.38.125 support.google.com
-216.239.38.125 helpouts.google.com
-216.239.38.125 dl.google.com
+64.233.162.83 google.cn
+64.233.162.83 google.com
+64.233.162.83 www.google.cn
+64.233.162.83 www.google.com
+64.233.162.83 www.google.com.hk
+64.233.162.83 id.google.com
+64.233.162.83 id.google.com.hk
+64.233.162.83 id.google.cn
+64.233.162.83 lh.googleusercontent.com
+64.233.162.83 lh1.googleusercontent.com
+64.233.162.83 lh2.googleusercontent.com
+64.233.162.83 lh3.googleusercontent.com
+64.233.162.83 lh4.googleusercontent.com
+64.233.162.83 lh5.googleusercontent.com
+64.233.162.83 lh6.googleusercontent.com
+64.233.162.83 lh.google.com
+64.233.162.83 lh1.google.com
+64.233.162.83 lh2.google.com
+64.233.162.83 lh3.google.com
+64.233.162.83 lh4.google.com
+64.233.162.83 lh5.google.com
+64.233.162.83 lh6.google.com
+64.233.162.83 clients.google.com
+64.233.162.83 clients1.google.com
+64.233.162.83 clients2.google.com
+64.233.162.83 clients3.google.com
+64.233.162.83 clients4.google.com
+64.233.162.83 clients5.google.com
+64.233.162.83 clients6.google.com
+64.233.162.83 ssl.google-analytics.com
+64.233.162.83 www.google-analytics.com
+64.233.162.83 www.gstatic.com
+64.233.162.83 csi.gstatic.com
+64.233.162.83 ssl.gstatic.com
+64.233.162.83 cse.google.com 
+64.233.162.83 gg.google.com
+64.233.162.83 themes.googleusercontent.com
+64.233.162.83 www.googleadservices.com
+64.233.162.83 www.googletagmanager.com
+64.233.162.83 content.googleapis.com
+64.233.162.83 0.client-channel.google.com
+64.233.162.83 1.client-channel.google.com
+64.233.162.83 2.client-channel.google.com
+64.233.162.83 3.client-channel.google.com
+64.233.162.83 4.client-channel.google.com
+64.233.162.83 5.client-channel.google.com
+64.233.162.83 6.client-channel.google.com
+64.233.162.83 hangouts.google.com
+64.233.162.83 dl-ssl.google.com
+64.233.162.83 support.google.com
+64.233.162.83 helpouts.google.com
+64.233.162.83 dl.google.com
 
 # google calendar
-216.239.38.125 calendar.google.com
-216.239.38.125 www-calendar-opensocial.googleusercontent.com
-216.239.38.125 ode25pfjgmvpquh3b1oqo31ti5ibg5fr-a-calendar-opensocial.googleusercontent.com
+64.233.162.83 calendar.google.com
+64.233.162.83 www-calendar-opensocial.googleusercontent.com
+64.233.162.83 ode25pfjgmvpquh3b1oqo31ti5ibg5fr-a-calendar-opensocial.googleusercontent.com
 
 # google maps
-# 216.239.38.125 ditu.google.cn
-# 216.239.38.125 mt.google.cn
-# 216.239.38.125 mt0.google.cn
-# 216.239.38.125 mt1.google.cn
-# 216.239.38.125 mt2.google.cn
-# 216.239.38.125 mt3.google.cn
-# 216.239.38.125 mt4.google.cn
-# 216.239.38.125 mt5.google.cn
-# 216.239.38.125 mt6.google.cn
-216.239.38.125 maps.gstatic.com
-216.239.38.125 mts.google.com
-216.239.38.125 mts0.google.com
-216.239.38.125 mts1.google.com
-216.239.38.125 mts2.google.com
-216.239.38.125 mts3.google.com
-216.239.38.125 mts4.google.com
-216.239.38.125 mts5.google.com
-216.239.38.125 mts6.google.com
-216.239.38.125 khms.google.com
-216.239.38.125 khms0.google.com
-216.239.38.125 khms1.google.com
-216.239.38.125 khms2.google.com
-216.239.38.125 khms3.google.com
-216.239.38.125 khms4.google.com
-216.239.38.125 khms5.google.com
-216.239.38.125 khms6.google.com
+# 64.233.162.83 ditu.google.cn
+# 64.233.162.83 mt.google.cn
+# 64.233.162.83 mt0.google.cn
+# 64.233.162.83 mt1.google.cn
+# 64.233.162.83 mt2.google.cn
+# 64.233.162.83 mt3.google.cn
+# 64.233.162.83 mt4.google.cn
+# 64.233.162.83 mt5.google.cn
+# 64.233.162.83 mt6.google.cn
+64.233.162.83 maps.gstatic.com
+64.233.162.83 mts.google.com
+64.233.162.83 mts0.google.com
+64.233.162.83 mts1.google.com
+64.233.162.83 mts2.google.com
+64.233.162.83 mts3.google.com
+64.233.162.83 mts4.google.com
+64.233.162.83 mts5.google.com
+64.233.162.83 mts6.google.com
+64.233.162.83 khms.google.com
+64.233.162.83 khms0.google.com
+64.233.162.83 khms1.google.com
+64.233.162.83 khms2.google.com
+64.233.162.83 khms3.google.com
+64.233.162.83 khms4.google.com
+64.233.162.83 khms5.google.com
+64.233.162.83 khms6.google.com
 
 # google drive
-216.239.38.125 drive.google.com
-216.239.38.125 0.drive.google.com
-216.239.38.125 1.drive.google.com
-216.239.38.125 2.drive.google.com
-216.239.38.125 3.drive.google.com
-216.239.38.125 4.drive.google.com
-216.239.38.125 5.drive.google.com
-216.239.38.125 6.drive.google.com
-216.239.38.125 7.drive.google.com
-216.239.38.125 8.drive.google.com
-216.239.38.125 9.drive.google.com
-216.239.38.125 10.drive.google.com
-216.239.38.125 docs.google.com
-216.239.38.125 0.docs.google.com
-216.239.38.125 1.docs.google.com
-216.239.38.125 2.docs.google.com
-216.239.38.125 3.docs.google.com
-216.239.38.125 4.docs.google.com
-216.239.38.125 5.docs.google.com
-216.239.38.125 6.docs.google.com
-216.239.38.125 7.docs.google.com
-216.239.38.125 8.docs.google.com
-216.239.38.125 9.docs.google.com
-216.239.38.125 10.docs.google.com
-216.239.38.125 upload.docs.google.com
+64.233.162.83 drive.google.com
+64.233.162.83 0.drive.google.com
+64.233.162.83 1.drive.google.com
+64.233.162.83 2.drive.google.com
+64.233.162.83 3.drive.google.com
+64.233.162.83 4.drive.google.com
+64.233.162.83 5.drive.google.com
+64.233.162.83 6.drive.google.com
+64.233.162.83 7.drive.google.com
+64.233.162.83 8.drive.google.com
+64.233.162.83 9.drive.google.com
+64.233.162.83 10.drive.google.com
+64.233.162.83 docs.google.com
+64.233.162.83 0.docs.google.com
+64.233.162.83 1.docs.google.com
+64.233.162.83 2.docs.google.com
+64.233.162.83 3.docs.google.com
+64.233.162.83 4.docs.google.com
+64.233.162.83 5.docs.google.com
+64.233.162.83 6.docs.google.com
+64.233.162.83 7.docs.google.com
+64.233.162.83 8.docs.google.com
+64.233.162.83 9.docs.google.com
+64.233.162.83 10.docs.google.com
+64.233.162.83 upload.docs.google.com
 
 # gmail
-216.239.38.125 gmail.com
-216.239.38.125 mail.google.com
-216.239.38.125 mail-attachment.googleusercontent.com
-216.239.38.125 chatenabled.mail.google.com
+64.233.162.83 gmail.com
+64.233.162.83 mail.google.com
+64.233.162.83 mail-attachment.googleusercontent.com
+64.233.162.83 chatenabled.mail.google.com
 
 # g+
-216.239.38.125 plus.google.com
-216.239.38.125 plus.url.google.com
-216.239.38.125 talkgadget.google.com
+64.233.162.83 plus.google.com
+64.233.162.83 plus.url.google.com
+64.233.162.83 talkgadget.google.com
 
 # google webstore
-216.239.38.125 chrome.google.com
+64.233.162.83 chrome.google.com
 
 # android
-216.239.38.125 www.android.com
-216.239.38.125 developer.android.com
-216.239.38.125 source.android.com
-216.239.38.125 android.clients.google.com
+64.233.162.83 www.android.com
+64.233.162.83 developer.android.com
+64.233.162.83 source.android.com
+64.233.162.83 android.clients.google.com
 
 # google play
-216.239.38.125 play.google.com
-216.239.38.125 play.googleapis.com
-216.239.38.125 lh1.ggpht.com
-216.239.38.125 lh2.ggpht.com
-216.239.38.125 lh3.ggpht.com
-216.239.38.125 lh4.ggpht.com
-216.239.38.125 lh5.ggpht.com
-216.239.38.125 lh6.ggpht.com
-216.239.38.125 wallet.google.com
+64.233.162.83 play.google.com
+64.233.162.83 play.googleapis.com
+64.233.162.83 lh1.ggpht.com
+64.233.162.83 lh2.ggpht.com
+64.233.162.83 lh3.ggpht.com
+64.233.162.83 lh4.ggpht.com
+64.233.162.83 lh5.ggpht.com
+64.233.162.83 lh6.ggpht.com
+64.233.162.83 wallet.google.com
 
 # google scholar | books
-216.239.38.125 books.google.com
-216.239.38.125 books.google.com.hk
-216.239.38.125 books.google.cn
-216.239.38.125 scholar.google.com
-216.239.38.125 scholar.google.com.hk
+64.233.162.83 books.google.com
+64.233.162.83 books.google.com.hk
+64.233.162.83 books.google.cn
+64.233.162.83 scholar.google.com
+64.233.162.83 scholar.google.com.hk
 
 # youtube chrome://net-internals
-216.239.38.125 youtube.com
-216.239.38.125 www.youtube.com
-216.239.38.125 accounts.youtube.com
-216.239.38.125 s.youtube.com
-216.239.38.125 s2.youtube.com
-216.239.38.125 www.youtube-nocookie.com
-216.239.38.125 redirector.c.youtube.com
-216.239.38.125 youtube-ui.l.google.com
-216.239.38.125 au.youtube.com
-216.239.38.125 ca.youtube.com
-216.239.38.125 de.youtube.com
-216.239.38.125 fr.youtube.co
-216.239.38.125 jp.youtube.com
-216.239.38.125 ru.youtube.com
-216.239.38.125 uk.youtube.com
-216.239.38.125 tw.youtube.com
-216.239.38.125 ads.youtube.com
-216.239.38.125 m.youtube.com
-216.239.38.125 youtu.be
-216.239.38.125 gdata.youtube.com
-216.239.38.125 stage.gdata.youtube.com
-216.239.38.125 uploads.stage.gdata.youtube.com
-216.239.38.125 img.youtube.com
-216.239.38.125 help.youtube.com
-216.239.38.125 upload.youtube.com
-216.239.38.125 insight.youtube.com
-216.239.38.125 apiblog.youtube.com
-216.239.38.125 clients1.youtube.com
+64.233.162.83 youtube.com
+64.233.162.83 www.youtube.com
+64.233.162.83 accounts.youtube.com
+64.233.162.83 s.youtube.com
+64.233.162.83 s2.youtube.com
+64.233.162.83 www.youtube-nocookie.com
+64.233.162.83 redirector.c.youtube.com
+64.233.162.83 youtube-ui.l.google.com
+64.233.162.83 au.youtube.com
+64.233.162.83 ca.youtube.com
+64.233.162.83 de.youtube.com
+64.233.162.83 fr.youtube.co
+64.233.162.83 jp.youtube.com
+64.233.162.83 ru.youtube.com
+64.233.162.83 uk.youtube.com
+64.233.162.83 tw.youtube.com
+64.233.162.83 ads.youtube.com
+64.233.162.83 m.youtube.com
+64.233.162.83 youtu.be
+64.233.162.83 gdata.youtube.com
+64.233.162.83 stage.gdata.youtube.com
+64.233.162.83 uploads.stage.gdata.youtube.com
+64.233.162.83 img.youtube.com
+64.233.162.83 help.youtube.com
+64.233.162.83 upload.youtube.com
+64.233.162.83 insight.youtube.com
+64.233.162.83 apiblog.youtube.com
+64.233.162.83 clients1.youtube.com
 # youtube/ytimg
-216.239.38.125 s.ytimg.com
-216.239.38.125 i.ytimg.com
-216.239.38.125 i1.ytimg.com
-216.239.38.125 i2.ytimg.com
-216.239.38.125 i3.ytimg.com
-216.239.38.125 i4.ytimg.com
-216.239.38.125 i5.ytimg.com
-216.239.38.125 i6.ytimg.com
-216.239.38.125 ytimg.l.google.com
+64.233.162.83 s.ytimg.com
+64.233.162.83 i.ytimg.com
+64.233.162.83 i1.ytimg.com
+64.233.162.83 i2.ytimg.com
+64.233.162.83 i3.ytimg.com
+64.233.162.83 i4.ytimg.com
+64.233.162.83 i5.ytimg.com
+64.233.162.83 i6.ytimg.com
+64.233.162.83 ytimg.l.google.com
 # youtube/video
-216.239.38.125 manifest.googlevideo.com
-216.239.38.125 redirector.googlevideo.com
-216.239.38.125 yt-video-upload.l.google.com
-216.239.38.125 video-analytics.l.google.com
-216.239.38.125 video.google.com
-216.239.38.125 video.l.google.com
-216.239.38.125 video.google.com.hk
-216.239.38.125 video.google.com.tw
-216.239.38.125 video-thumbnails.l.google.com
-216.239.38.125 upload.video.google.com
-216.239.38.125 sslvideo-upload.l.google.com
-216.239.38.125 video-stats.video.google.com
-216.239.38.125 r4---sn-i3b7knes.googlevideo.com
-216.239.38.125 r4---sn-4g57km7e.googlevideo.com
-216.239.38.125 r11---sn-5hnedn7y.googlevideo.com
-216.239.38.125 r15---sn-5uaeznld.googlevideo.com
-216.239.38.125 0.gvt0.com
-216.239.38.125 1.gvt0.com
-216.239.38.125 2.gvt0.com
-216.239.38.125 3.gvt0.com
-216.239.38.125 4.gvt0.com
-216.239.38.125 5.gvt0.com
+64.233.162.83 manifest.googlevideo.com
+64.233.162.83 redirector.googlevideo.com
+64.233.162.83 yt-video-upload.l.google.com
+64.233.162.83 video-analytics.l.google.com
+64.233.162.83 video.google.com
+64.233.162.83 video.l.google.com
+64.233.162.83 video.google.com.hk
+64.233.162.83 video.google.com.tw
+64.233.162.83 video-thumbnails.l.google.com
+64.233.162.83 upload.video.google.com
+64.233.162.83 sslvideo-upload.l.google.com
+64.233.162.83 video-stats.video.google.com
+64.233.162.83 r4---sn-i3b7knes.googlevideo.com
+64.233.162.83 r4---sn-4g57km7e.googlevideo.com
+64.233.162.83 r11---sn-5hnedn7y.googlevideo.com
+64.233.162.83 r15---sn-5uaeznld.googlevideo.com
+64.233.162.83 0.gvt0.com
+64.233.162.83 1.gvt0.com
+64.233.162.83 2.gvt0.com
+64.233.162.83 3.gvt0.com
+64.233.162.83 4.gvt0.com
+64.233.162.83 5.gvt0.com
 
 # blogspot | blogger
-216.239.38.125 blogspot.com
-216.239.38.125 www.blogspot.com
-216.239.38.125 1.bp.blogspot.com
-216.239.38.125 2.bp.blogspot.com
-216.239.38.125 3.bp.blogspot.com
-216.239.38.125 4.bp.blogspot.com
-216.239.38.125 5.bp.blogspot.com
-216.239.38.125 6.bp.blogspot.com
-216.239.38.125 images-blogger-opensocial.googleusercontent.com
-216.239.38.125 www.blogger.com
-216.239.38.125 accounts.blogger.com
-216.239.38.125 blogger.l.google.com
-216.239.38.125 blogger.googleusercontent.com
-216.239.38.125 blogger.google.com
+64.233.162.83 blogspot.com
+64.233.162.83 www.blogspot.com
+64.233.162.83 1.bp.blogspot.com
+64.233.162.83 2.bp.blogspot.com
+64.233.162.83 3.bp.blogspot.com
+64.233.162.83 4.bp.blogspot.com
+64.233.162.83 5.bp.blogspot.com
+64.233.162.83 6.bp.blogspot.com
+64.233.162.83 images-blogger-opensocial.googleusercontent.com
+64.233.162.83 www.blogger.com
+64.233.162.83 accounts.blogger.com
+64.233.162.83 blogger.l.google.com
+64.233.162.83 blogger.googleusercontent.com
+64.233.162.83 blogger.google.com
 
 # Twitter
 185.45.5.47	t.co
