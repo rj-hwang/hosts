@@ -209,8 +209,9 @@
 64.233.162.83 plus.url.google.com
 64.233.162.83 talkgadget.google.com
 
-# google webstore
+# google chrome
 64.233.162.83 chrome.google.com
+64.233.162.83 developer.chrome.com
 
 # android
 64.233.162.83 www.android.com
