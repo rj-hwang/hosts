@@ -110,6 +110,33 @@
 64.233.162.83 support.google.com
 64.233.162.83 helpouts.google.com
 64.233.162.83 dl.google.com
+64.233.162.83 console.developers.google.com
+64.233.162.83 servicemanagement.clients6.google.com
+64.233.162.83 servicemanagement.clients5.google.com
+64.233.162.83 servicemanagement.clients4.google.com
+64.233.162.83 servicemanagement.clients3.google.com
+64.233.162.83 servicemanagement.clients2.google.com
+64.233.162.83 servicemanagement.clients1.google.com
+64.233.162.83 servicemanagement.clients0.google.com
+64.233.162.83 servicemanagement.clients.google.com
+64.233.162.83 apikeys.clients6.google.com
+64.233.162.83 apikeys.clients5.google.com
+64.233.162.83 apikeys.clients4.google.com
+64.233.162.83 apikeys.clients3.google.com
+64.233.162.83 apikeys.clients2.google.com
+64.233.162.83 apikeys.clients1.google.com
+64.233.162.83 apikeys.clients0.google.com
+64.233.162.83 apikeys.clients.google.com
+64.233.162.83 clientauthconfig.clients6.google.com
+64.233.162.83 clientauthconfig.clients5.google.com
+64.233.162.83 clientauthconfig.clients4.google.com
+64.233.162.83 clientauthconfig.clients3.google.com
+64.233.162.83 clientauthconfig.clients2.google.com
+64.233.162.83 clientauthconfig.clients1.google.com
+64.233.162.83 clientauthconfig.clients0.google.com
+64.233.162.83 clientauthconfig.clients.google.com
+64.233.162.83 iam.clients6.google.com
+64.233.162.83 survey.g.doubleclick.net
 
 # google calendar
 64.233.162.83 calendar.google.com
