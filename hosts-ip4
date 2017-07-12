@@ -38,6 +38,9 @@
 # https://github.com/smarthosts/smarthosts/blob/master/trunk/hosts
 61.91.161.217 smarthosts.googlecode.com
 
+# google ad
+127.0.0.1 pubads.g.doubleclick.net
+127.0.0.1 googleads.g.doubleclick.net
 
 # google auth
 61.91.161.217 accounts.google.com
@@ -139,31 +142,66 @@
 61.91.161.217 iam.clients6.google.com
 61.91.161.217 survey.g.doubleclick.net
 61.91.161.217 tools.google.com
+61.91.161.217 people-pa.clients6.google.com
+61.91.161.217 ogs.google.com
+61.91.161.217 notifications.google.com
 
 # google calendar
 61.91.161.217 calendar.google.com
 61.91.161.217 www-calendar-opensocial.googleusercontent.com
 61.91.161.217 ode25pfjgmvpquh3b1oqo31ti5ibg5fr-a-calendar-opensocial.googleusercontent.com
 
+# gstatic Start
+61.91.161.217 geo0.ggpht.com
+61.91.161.217 geo1.ggpht.com
+61.91.161.217 geo2.ggpht.com
+61.91.161.217 geo3.ggpht.com
+61.91.161.217 gm1.ggpht.com
+61.91.161.217 gm2.ggpht.com
+61.91.161.217 gm3.ggpht.com
+61.91.161.217 gm4.ggpht.com
+61.91.161.217 lh3.ggpht.com
+61.91.161.217 lh4.ggpht.com
+61.91.161.217 lh5.ggpht.com
+61.91.161.217 lh6.ggpht.com
+61.91.161.217 nt0.ggpht.com
+61.91.161.217 nt1.ggpht.com
+61.91.161.217 nt2.ggpht.com
+61.91.161.217 nt3.ggpht.com
+61.91.161.217 yt3.ggpht.com
+61.91.161.217 yt4.ggpht.com
+61.91.161.217 accounts.gstatic.com
+61.91.161.217 maps.gstatic.com
+61.91.161.217 ssl.gstatic.com
+61.91.161.217 www.gstatic.com
+61.91.161.217 connectivitycheck.gstatic.com
+61.91.161.217 encrypted-tbn0.gstatic.com
+61.91.161.217 encrypted-tbn1.gstatic.com
+61.91.161.217 encrypted-tbn2.gstatic.com
+61.91.161.217 encrypted-tbn3.gstatic.com
+61.91.161.217 play-music.gstatic.com
+61.91.161.217 g0.gstatic.com
+61.91.161.217 g1.gstatic.com
+61.91.161.217 g2.gstatic.com
+61.91.161.217 g3.gstatic.com
+61.91.161.217 mt0.gstatic.com
+61.91.161.217 mt1.gstatic.com
+61.91.161.217 mt2.gstatic.com
+61.91.161.217 mt3.gstatic.com
+61.91.161.217 mt4.gstatic.com
+61.91.161.217 mt5.gstatic.com
+61.91.161.217 mt6.gstatic.com
+61.91.161.217 mt7.gstatic.com
+61.91.161.217 t0.gstatic.com
+61.91.161.217 t1.gstatic.com
+61.91.161.217 t2.gstatic.com
+61.91.161.217 t3.gstatic.com
+61.91.161.217 fonts.gstatic.com
+# gstatic End
+
 # google maps
 # 61.91.161.217 ditu.google.cn
-# 61.91.161.217 mt.google.cn
-# 61.91.161.217 mt0.google.cn
-# 61.91.161.217 mt1.google.cn
-# 61.91.161.217 mt2.google.cn
-# 61.91.161.217 mt3.google.cn
-# 61.91.161.217 mt4.google.cn
-# 61.91.161.217 mt5.google.cn
-# 61.91.161.217 mt6.google.cn
-61.91.161.217 maps.gstatic.com
 61.91.161.217 mts.google.com
-61.91.161.217 mts0.google.com
-61.91.161.217 mts1.google.com
-61.91.161.217 mts2.google.com
-61.91.161.217 mts3.google.com
-61.91.161.217 mts4.google.com
-61.91.161.217 mts5.google.com
-61.91.161.217 mts6.google.com
 61.91.161.217 khms.google.com
 61.91.161.217 khms0.google.com
 61.91.161.217 khms1.google.com
